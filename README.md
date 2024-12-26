@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width=400px align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivtejrakhunde&label=Profile%20views&color=0e75b6&style=flat" alt="shivtejrakhunde" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Structures, Algorithms, and Machine Learning**
 
 - 📫 How to reach me **shivtejrakhunde@gmail.com**
 
